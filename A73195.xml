@@ -1,0 +1,285 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pleasant song, made by a souldier whose bringing vp had bin dainty, and partly fed by those affections of his vnbridled youth, is now beaten with his owne rod, and therefore tearmeth this his repentance, the fall of his folly : to the tune of Calino.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73195</idno>
+            <idno type="STC">STC 22920.7</idno>
+            <idno type="STC">ESTC S5201</idno>
+            <idno type="EEBO-CITATION">39960659</idno>
+            <idno type="OCLC">ocm 39960659</idno>
+            <idno type="VID">178658</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178658)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1951:3b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pleasant song, made by a souldier whose bringing vp had bin dainty, and partly fed by those affections of his vnbridled youth, is now beaten with his owne rod, and therefore tearmeth this his repentance, the fall of his folly : to the tune of Calino.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Wright,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1614]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.)</note>
+                  <note>Contains one woodcut illus.</note>
+                  <note>Bound and filmed following STC (2nd ed.) 21056.8.</note>
+                  <note>Imperfect: faded, with slight loss of text.</note>
+                  <note>Reproduction of original in: Pepys' Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:178658:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>A pleaſant Song, made by a Souldier, whoſe bringing vp had bin dainty, and partly fed by thoſe affections of his vnbridled youth, is now beaten with his owne rod, and therefore tearmeth this his repentance, <hi>the fall of his folly.</hi>
+            </head>
+            <opener>To the tune of Calino.</opener>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>IN Summer time when <hi>Phoebus</hi> rayes,</l>
+               <l>Did chéere each mortall mans delight,</l>
+               <l>Increaſing of the chearefull dayes,</l>
+               <l>and cutting off the darkeſome night.</l>
+               <l>When Nature brought forth euery thing,</l>
+               <l>By iuſt returne of <hi>April</hi> ſhowers:</l>
+               <l>To make the pleaſant branches ſpring,</l>
+               <l>of ſundry ſorts of hearbs and flowers.</l>
+            </lg>
+            <lg>
+               <l>It was my chance to walke abroad,</l>
+               <l>To view Dame Natures new come brood:</l>
+               <l>The pretty Birds did lay on load,</l>
+               <l>with ſugred tunes in euery wood.</l>
+               <l>The gallant Nightingale did ſet,</l>
+               <l>Her ſpeckled breſt againſt a Bryer,</l>
+               <l>Whoſe wofull tunes bewayles as yet,</l>
+               <l>her brother <hi>Tereus</hi> foule deſire.</l>
+            </lg>
+            <lg>
+               <l>The Serpents hauing caſt their coates,</l>
+               <l>Lay liſtning how the Birds did ſing:</l>
+               <l>The pretty birds with ſugred notes,</l>
+               <l>did welcome in the pleaſant Spring:</l>
+               <l>I drew me to the Gréenewood ſide,</l>
+               <l>To heare this countrey harmony,</l>
+               <l>Whereas ere long I had eſpide,</l>
+               <l>a wofull man in miſery.</l>
+            </lg>
+            <lg>
+               <l>He lay along vpon the ground,</l>
+               <l>And to the heauens he caſt his eye:</l>
+               <l>The bordering hils and dales reſound,</l>
+               <l>the Ecchoes of his pittious cry.</l>
+               <l>He wailing ſore, and ſighing, ſaid,</l>
+               <l>O heauen, what endleſſe griefe haue I?</l>
+               <l>Why are my ſorrowes thus delaid?</l>
+               <l>come therefore death and let me dye.</l>
+            </lg>
+            <lg>
+               <l>When Nature firſt had made my frame,</l>
+               <l>And let me looſe when ſhe had done:</l>
+               <l>Steps Fortune in that fickle Dame,</l>
+               <l>to end what Nature had begun,</l>
+               <l>She ſet me ſoft vpon her knée,</l>
+               <l>And bl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt my tender age with ſtore;</l>
+               <l>But in the end ſhe did agrée.</l>
+               <l>to marre what ſhe had done before<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <lg>
+               <l>I could no ſooner créepe alone,</l>
+               <l>But ſhe forſooke her foſtred child,</l>
+               <l>I had no land to liue vpon,</l>
+               <l>but <gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>c'd abroad the world ſo wild.</l>
+               <l>At len<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> I fell in company,</l>
+               <l>With <gap reason="illegible: damage" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ant youths of <hi>Mars</hi> his traine,</l>
+               <l>I ſpe<gap reason="illegible: damage" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y life in ieoperdy,</l>
+               <l>and <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> m<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> labour for my paine.</l>
+            </lg>
+            <lg>
+               <l>I wa<gap reason="illegible: damage" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>  on the ſieged walles,</l>
+               <l>In thunder, lightning, raine, and ſnow,</l>
+               <l>And oft in ſhot o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> powdred halls,</l>
+               <l>whoſe coſtly markes are yet to ſhow,</l>
+               <l>When all my kindred tooke their reſt,</l>
+               <l>At home in many a ſtately bed:</l>
+               <l>The ground and pauement was my neſt,</l>
+               <l>my Flaſke a pillow for my head.</l>
+            </lg>
+            <lg>
+               <l>My meate was ſuch as I could finde,</l>
+               <l>As Rootes and Hearbes of ſundry ſorts:</l>
+               <l>Which did content my hungry mind,</l>
+               <l>although my commons were but ſhort,</l>
+               <l>My powder ſerued to ſalt my meate,</l>
+               <l>My murren for a gilden cup,</l>
+               <l>Wherein ſuch drinke as I could get,</l>
+               <l>in ſpr<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r ditch, I dranke it vp.</l>
+            </lg>
+            <lg>
+               <l>My Rapier alwaies b<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my ſide,</l>
+               <l>My péece lay char<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith match alight,</l>
+               <l>Thus many a m<gap reason="illegible: damage" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h I did abide,</l>
+               <l>to ward all day, and watch all night,</l>
+               <l>I liued in this glorious vaine,</l>
+               <l>Vntill my limmes were ſtiffe and lame<g ref="char:punc">▪</g>
+               </l>
+               <l>And then I got me home againe,</l>
+               <l>regarding not ſuch coſtly fame.</l>
+            </lg>
+            <lg>
+               <l>When I came home, I made a proofe</l>
+               <l>What friends would do if néed ſhould be,</l>
+               <l>My néereſt kinsfolkes look'd aloofe,</l>
+               <l>as though they had forgotten me.</l>
+               <l>And as the Owle by chattring charmes,</l>
+               <l>Is wondred at of other Birds,</l>
+               <l>So came they wondring at my harmes,</l>
+               <l>and yeeld me no releefe but words.</l>
+            </lg>
+            <lg>
+               <l>Thus doe I want when they haue ſtore,</l>
+               <l>That am their equall euery way:</l>
+               <l>But fortune lent them ſomewhat more,</l>
+               <l>elſe had I beene as good as they.</l>
+               <l>Come gentle Death and end my griefe,</l>
+               <l>Ye pretty Birds ring forth my knell:</l>
+               <l>Let Robin red breſt be the chiefe,</l>
+               <l>to bury me, andd ſo farewell.</l>
+            </lg>
+            <lg>
+               <l>Let no good Souldier be diſmaide,</l>
+               <l>To fight in field with courage bold<g ref="char:punc">▪</g>
+               </l>
+               <l>Yet marke the words that I haue ſaid,</l>
+               <l>truſt not to friends when thou art old.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for Iohn Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
